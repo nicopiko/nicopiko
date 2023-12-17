@@ -1,14 +1,15 @@
 ### Hi there 👋
+
 <a href="https://github.com/nicopiko#gh-light-mode-only">
   <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&title_color=24292F&text_color=24292F"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&layout=compact&hide_border=true&card_width=200&title_color=24292F&text_color=24292F"/>
+    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true"/>
+    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
   </div>
 </a>
 <a href="https://github.com/nicopiko#gh-dark-mode-only">
   <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&&layout=compact&count_private=true&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true"/>
+    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
   </div>
 </a>
 
